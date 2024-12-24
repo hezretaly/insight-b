@@ -1,0 +1,15 @@
+rf/
+sf/
+sft/
+venv/
+.env
+app2.py
+connect_to_gemini.py
+get_r.py
+match.py
+prompt.txt
+readme.txt
+requestdb.py
+scrp_app.py
+their_script.py
+todo.txt
